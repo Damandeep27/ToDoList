@@ -34,7 +34,7 @@ const App = props => {
 
         <div className='background'>
         
-        <img src={img} />
+          <img src={img} />
     
         </div>
         
