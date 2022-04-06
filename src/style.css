@@ -24,8 +24,8 @@ body, html{
    
     position: absolute;
     transform: translate(-50%,-50%);
-    right: -35%;
-    top: 100%;
+    left: 82%;
+    top: 90%;
   }
 
   .background img{
