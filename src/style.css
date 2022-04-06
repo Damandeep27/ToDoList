@@ -11,16 +11,27 @@ body, html{
    background-repeat: no-repeat;
    background-size: cover;
    background-attachment: fixed;
+
   }
 
 
-  .background img{
-    width: 700px;
-    height: 700px;
+
+
+  .background{
+
+    width: auto;
+    height: auto;
+   
     position: absolute;
     transform: translate(-50%,-50%);
-    left: 1150px;
-    top: 700px;
+    left: 82%;
+    top: 100%;
+  }
+
+  .background img{
+    width: 800px;
+    height: 800px;
+
   }
 
   body{
@@ -185,12 +196,13 @@ h1{
    
    background-color: #080710;
    padding: 2%;
-   position: relative;
    width:80%;
    margin-left: auto;
    margin-right: auto;
    margin-top: 3%;
    border-radius: 50px;
+
+   
   
 }
   
