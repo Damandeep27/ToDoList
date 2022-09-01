@@ -28,9 +28,7 @@ const App = props => {
     return (<div id="app">
 
        
-        <h1>My Todo List</h1>
-         <p><a href="https://youtu.be/qBnPCOowjQs">Watch Demo</a></p>
-
+      
 
 
         <div className='background'>
