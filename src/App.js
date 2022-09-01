@@ -29,7 +29,7 @@ const App = props => {
 
        
        <h1>My Todo List</h1>
-         <p style={{color: "white"; text-transform:"uppercase", font-weight:"bold"}}><a href="https://youtu.be/qBnPCOowjQs">Watch Demo</a></p>
+         <p style={{color: "white", text-transform:"uppercase", font-weight:"bold"}}><a href="https://youtu.be/qBnPCOowjQs">Watch Demo</a></p>
 
 
         <div className='background'>
