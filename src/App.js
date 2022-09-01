@@ -29,7 +29,7 @@ const App = props => {
 
        
         <h1>My Todo List</h1>
-         <a href="https://youtu.be/qBnPCOowjQs">Watch Demo</a>
+         <p><a href="https://youtu.be/qBnPCOowjQs">Watch Demo</a></p>
 
 
 
